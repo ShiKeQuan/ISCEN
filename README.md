@@ -1,5 +1,6 @@
-# ISCEN
+# ISCEN-"Nonlinear Modeling of the 3-D Ocean Sound Velocity Field via Incremental Sample Convolutional Exchange Network"
 The code of " Nonlinear Modeling of the 3-D Ocean Sound Velocity Field via Incremental Sample Convolutional Exchange Network"
+
 Authors: Kequan Shi, Qi Li, Pan Xu, Bingbing Zhang and Hongna Zhu*
 
 Announcement:
